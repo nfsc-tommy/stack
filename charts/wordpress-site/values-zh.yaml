@@ -5,7 +5,7 @@
 replicaCount: 1
 
 # Uncomment to use a custom image
-image: {}
+image:
   repository: docker.io/vmlinz/example-bedrock-wordpress
   tag: latest
   # pullPolicy: IfNotPresent
